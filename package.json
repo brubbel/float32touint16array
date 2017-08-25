@@ -1,5 +1,5 @@
 {
-  "name": "float32ToUint16Array",
+  "name": "float32touint16array",
   "version": "1.0.0",
   "description": "",
   "main": "float32ToUint16Array.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "node-red": {
     "nodes": {
-      "float32ToUint16Array": "float32ToUint16Array.js"
+      "float32touint16array": "float32ToUint16Array.js"
     }
   }
 }
