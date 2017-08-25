@@ -1,0 +1,17 @@
+{
+  "name": "float32ToUint16Array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "float32ToUint16Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "float32ToUint16Array": "float32ToUint16Array.js",
+      "uint16ArrayToFloat32": "float32ToUint16Array.js"
+    }
+  }
+}
